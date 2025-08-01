@@ -29,4 +29,3 @@ Here are some ideas to get you started:
 
 ┌──(rIleria㉿kali)-[~]
 └─$ echo "68747470733a2f2f6d757369632e796f75747562652e636f6d2f77617463683f763d646245592d4a56484a5767266c6973743d4c4d" | xxd -r -p
-
